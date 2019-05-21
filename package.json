@@ -1,6 +1,6 @@
 {
   "name": "whoisens-test-dataset",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Whois ENS test dataset",
   "repository": {
     "type": "git",
