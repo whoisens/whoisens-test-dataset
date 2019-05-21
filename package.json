@@ -1,7 +1,8 @@
 {
   "name": "whoisens-test-dataset",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Whois ENS test dataset",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/whoisens/whoisens-test-dataset.git"
