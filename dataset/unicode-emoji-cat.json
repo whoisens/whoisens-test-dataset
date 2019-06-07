@@ -1,0 +1,29 @@
+{
+  "main_name": "\uD83D\uDC08\uD83D\uDC08\uD83D\uDC08\uD83D\uDC08\uD83D\uDC08\uD83D\uDC08\uD83D\uDC08.eth",
+  "owner": "0xbe7eef087030eda4750fc50afe31a3adec7e5d09",
+  "expires": 1591062969,
+  "eth_names": [
+    {
+      "name": "\uD83D\uDC08\uD83D\uDC08\uD83D\uDC08\uD83D\uDC08\uD83D\uDC08\uD83D\uDC08\uD83D\uDC08.eth",
+      "parent": "eth",
+      "controller": "0xf304e02ae3b43806181d1d341f72f5b440e55ad9",
+      "subdomains": [
+        "супер-кіт"
+      ]
+    },
+    {
+      "name": "супер-кіт.\uD83D\uDC08\uD83D\uDC08\uD83D\uDC08\uD83D\uDC08\uD83D\uDC08\uD83D\uDC08\uD83D\uDC08.eth",
+      "parent": "\uD83D\uDC08\uD83D\uDC08\uD83D\uDC08\uD83D\uDC08\uD83D\uDC08\uD83D\uDC08\uD83D\uDC08.eth",
+      "controller": "0xf304e02ae3b43806181d1d341f72f5b440e55ad9",
+      "forward_resolver": "0xd3ddccdd3b25a8a7423b5bee360a42146eb4baf3",
+      "subdomains": [
+        "еліс"
+      ]
+    },
+    {
+      "name": "еліс.супер-кіт.\uD83D\uDC08\uD83D\uDC08\uD83D\uDC08\uD83D\uDC08\uD83D\uDC08\uD83D\uDC08\uD83D\uDC08.eth",
+      "parent": "супер-кіт.\uD83D\uDC08\uD83D\uDC08\uD83D\uDC08\uD83D\uDC08\uD83D\uDC08\uD83D\uDC08\uD83D\uDC08.eth",
+      "controller": "0xff3e70307d0a0ce5e5e0d1d086163a87565e0d12"
+    }
+  ]
+}
